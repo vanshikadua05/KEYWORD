@@ -1,0 +1,10 @@
+flask
+nltk
+spacy
+scikit-learn
+pymongo
+PyPDF2
+python-docx
+pandas
+requests
+requests-oauthlib
